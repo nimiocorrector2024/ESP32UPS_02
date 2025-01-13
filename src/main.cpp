@@ -10,7 +10,7 @@ void setup() {
 
     // Conectar a Wi-Fi
     connectWiFi();
-//prueba gitt
+
     // Configurar conexión MQTT
     setupMQTT();
 
